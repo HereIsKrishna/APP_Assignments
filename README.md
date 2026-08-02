@@ -16,3 +16,6 @@ Design a dynamic report generator in Python that uses decorators, class methods,
 
 Assignment 3 :
 Write a program to implement a Configurable Payment Processing System using the Strategy Pattern.
+
+Assignment 4 :
+Write a program to understand Memoization & Tabulation.
