@@ -13,3 +13,6 @@ books, and returning books.
 
 Assignment 2 : 
 Design a dynamic report generator in Python that uses decorators, class methods, and magic methods to customize and format reports. The system should allow users to define report templates and apply various formatting options dynamically.
+
+Assignment 3 :
+Write a program to implement a Configurable Payment Processing System using the Strategy Pattern.
