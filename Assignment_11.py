@@ -1,3 +1,8 @@
+# Assignment 11 :
+# Apply Pandas to create a Series containing ten random numbers and 
+# perform indexing, filtering, and statistical operations 
+# such as mean, median, minimum, and maximum.
+
 import pandas as pd
 import numpy as np
 

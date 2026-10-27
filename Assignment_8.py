@@ -1,3 +1,6 @@
+# Assignment 8 :
+# Create a Python script to read data from an input file. Perform line counting, 
+# extract the first two lines, and write the extracted data into a new file.
 
 # Open the input file in read mode
 with open("assignment_8_input.txt", "r") as file:

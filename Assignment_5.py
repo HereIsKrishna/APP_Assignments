@@ -1,3 +1,6 @@
+# Assignment 5 :
+# Apply Dynamic Programming to Find the Longest Common Subsequence (LCS)
+
 def lcs(X, Y):
     # Find the lengths of both sequences
     m = len(X)

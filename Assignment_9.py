@@ -1,3 +1,6 @@
+# Assignment 9 :
+# Develop a Python script to read data from a CSV file, convert it into JSON format,
+# and store the converted data in a JSON output file.
 
 import csv
 import json

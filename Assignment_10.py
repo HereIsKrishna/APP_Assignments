@@ -1,3 +1,7 @@
+# Assignment 10 :
+# Apply NumPy to create a one-dimensional array containing the numbers from 1 to 10, 
+# perform slicing operations, compute statistical measures (sum, mean, maximum, and minimum), 
+# and apply broadcasting to modify the array elements.
 
 import numpy as np
 

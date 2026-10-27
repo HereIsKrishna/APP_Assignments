@@ -1,3 +1,6 @@
+# Assignment 6 :
+# Write a code for optimal selection of items to maximize value within a weight constraint 
+# using bottom-up and top-down approaches using the dynamic programming approach.
 
 # Knapsack Problem using Dynamic Programming
 

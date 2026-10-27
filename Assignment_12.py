@@ -1,3 +1,7 @@
+# Assignment 12 :
+# Apply NumPy and Pandas to perform exploratory data analysis (EDA) 
+# on a customer churn dataset by cleaning the data, handling missing values, 
+# generating summary statistics, and identifying significant patterns through visualization
 
 import pandas as pd
 import numpy as np

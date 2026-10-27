@@ -1,3 +1,5 @@
+# Assignment 7 :
+# Write a Python script using regular expressions (regex) to find email patterns.
 
 import re
 
